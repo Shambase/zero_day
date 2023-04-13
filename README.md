@@ -1,3 +1,3 @@
-# Vagrant
-* what is a virtual machine
+# vagrant
 * what is vagrant
+* what is a virtual machine
